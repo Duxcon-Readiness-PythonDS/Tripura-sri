@@ -1,5 +1,4 @@
-Roy Duxcon
-5:21 PM
+
 import heapq
 
 def find_kth_largest(nums, k):
